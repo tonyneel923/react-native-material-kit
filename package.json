@@ -1,6 +1,6 @@
 {
-  "name": "react-native-material-kit",
-  "version": "0.3.2",
+  "name": "@levelupdevelopment/react-native-material-kit",
+  "version": "0.3.3",
   "description": "Bringing Material Design to React Native",
   "main": "lib/index.js",
   "author": "Yingxin Wu <yingxinwu.g@gmail.com>",
@@ -21,7 +21,9 @@
     "MaterialKit"
   ],
   "homepage": "https://github.com/xinthink/react-native-material-kit",
-  "bugs": "https://github.com/xinthink/react-native-material-kit/issues",
+  "bugs": {
+    "url": "https://github.com/xinthink/react-native-material-kit/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/xinthink/react-native-material-kit.git"
