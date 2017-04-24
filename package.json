@@ -1,6 +1,6 @@
 {
   "name": "@levelupdevelopment/react-native-material-kit",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "Bringing Material Design to React Native",
   "main": "lib/index.js",
   "author": "Yingxin Wu <yingxinwu.g@gmail.com>",
